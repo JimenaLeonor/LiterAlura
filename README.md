@@ -1,7 +1,4 @@
 # LiterAlura
-Desarrollar un Catálogo de Libros que ofrezca interacción textual (vía consola) con los usuarios, proporcionando al menos 5 opciones de interacción. Los libros se buscarán a través de una API específica.
-
-# LiterAlura
 
 LiterAlura es una aplicación web diseñada para gestionar información sobre autores y sus obras. Permite a los usuarios consultar autores vivos en un año específico, así como agregar, editar y eliminar datos de autores y libros.
 
